@@ -1,0 +1,56 @@
+{"details":{
+  "image":"baby.png",
+  "name":"Anitha",
+  "phnno":"+9199999999",
+  "email":"anithalavanya6@gmail.com",
+  "Address":"mic college of technology kanchikacharla"
+},
+"career":{
+  "info":"to earn a good salary"
+},
+"education":[
+  {
+  "qualification":"b.tech",
+  "institute":"MIC College of technology",
+  "year":"2020",
+  "percentage":"7"
+},
+{
+  "qualification":"intermediate",
+  "institute":"jrc college",
+  "year":"2014-2016",
+  "percentage":"98"
+},
+{
+  "qualification":"Aissc",
+  "institute":"DAV public scool",
+  "year":"2014",
+  "percentage":"94"
+}
+],
+"skills":
+  [{
+    "title":"programming languages",
+    "info":["c,c++,java"]
+},
+{
+  "title":"operating systems",
+  "info":["windows,linux,ubuntu,mac"]
+},
+{
+  "title":"databases",
+  "info":["sql,sql++,mysql,oracle"]
+}
+],
+"achievements":
+[
+  {
+        "title":"prizes",
+        "info":["i got gold medal in olympics."]
+  },
+  {
+    "title":"best performance",
+    "info":["student of the year."]
+  }
+]
+}

@@ -1,0 +1,161 @@
+.main{
+  border: 2px solid green;
+  
+}
+.left{
+  border: 2px solid red;
+  padding: 15%;
+  margin: 2%;
+  width: 30;
+  text-align: center;
+}
+h2{
+  color: purple;
+}
+a{
+  color: brown;
+  font-size: 20px;
+  word-wrap: break-word;
+}
+
+#name{
+  color: black;
+  font-size: 30px;
+  text-align: center;
+}
+#phno{
+  color: black;
+  font-size: 30px;
+  text-align: center;
+}
+.left img{
+  width: 50%;
+  border-radius: 50%;
+  border: 2px solid green;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+.right{
+  border: 2px solid black;
+  padding: 2%;
+  margin: 2%;
+  width: 70%;
+}
+@media only screen and (min-width:0px) and (max-width:480px){
+  .main{
+    border: 2px solid green;
+    padding: 2%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+
+  }
+  .left{
+    border: 2px solid red;
+    padding: 2%;
+    margin: 2%;
+    width: 90%;
+    background-color: skyblue;
+    text-align: center;
+  }
+  h2{
+    color: purple;
+  }
+  a{
+    color: brown;
+    font-size: 20px;
+    word-wrap: break-word;
+  }
+
+  #name{
+    color: black;
+    font-size: 30px;
+    text-align: center;
+  }
+  #phno{
+    color: black;
+    font-size: 30px;
+    text-align: center;
+  }
+  .table1{
+    width: 90%;
+    overflow-x: auto;
+  }
+  .left img{
+    width: 50%;
+    border-radius: 50%;
+    border: 2px solid green;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+  }
+  .right{
+    border: 2px solid black;
+    padding: 2%;
+    margin: 2%;
+    width: 90%;
+    background-color: skyblue;
+  }
+
+
+}
+@media only screen and (min-width:480px) and (max-width:768px){
+  .main{
+    border: 2px solid green;
+    padding: 2%;
+    display: flex;
+    flex-direction: row;
+    width: 100;
+  }
+  .left{
+    border: 2px solid red;
+    padding: 2%;
+    margin: 2%;
+    width: 40%;
+    background-color: yellow;
+    text-align: center;
+  }
+  h2{
+    color: purple;
+  }
+  a{
+    color: brown;
+    font-size: 20px;
+    word-wrap: break-word;
+  }
+
+  #name{
+    color: black;
+    font-size: 30px;
+    text-align: center;
+  }
+  #phno{
+    color: black;
+    font-size: 30px;
+    text-align: center;
+  }
+  .table1{
+    width: 90%;
+    overflow-x: auto;
+  }
+  .left img{
+    width: 50%;
+    border-radius: 50%;
+    border: 2px solid green;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+  }
+  .right{
+    border: 2px solid black;
+    padding: 2%;
+    margin: 2%;
+    width: 40%;
+    background-color: yellow;
+  }
+
+}
